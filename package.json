@@ -1,0 +1,19 @@
+{
+  "name": "fs_pet_shop",
+  "version": "1.0.0",
+  "description": "This is a multi-day assignment split into the following parts. Your task is to complete each part's assignment, one at a time, before moving on to the next part.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardr/fs_pet_shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hardr/fs_pet_shop/issues"
+  },
+  "homepage": "https://github.com/hardr/fs_pet_shop#readme"
+}
